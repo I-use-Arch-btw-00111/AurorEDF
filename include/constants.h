@@ -11,7 +11,7 @@
 #pragma once
 
 #define AUROR_NAME "AurorOS"
-#define AUROR_VERSION "Public Beta 4"
+#define AUROR_VERSION "Public Beta 4 Patch 1"
 #define PC_NAME "auror"
 #define PC_ARCH "x86"
 #define AUROR_BETA_STATE 2
